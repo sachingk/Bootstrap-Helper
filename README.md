@@ -1,5 +1,5 @@
-# Helper-SCSS
-Big List of all helpers for your next SCSS project
+# Bootstrap Helper
+Mega List of helpers for your next Bootstrap project
 
 ## This Helpers Includes the following 
 
